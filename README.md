@@ -1,4 +1,5 @@
 **The Impact of Sleep on Mood**
+
 This project is about how sleep affects people’s mood.
 
 Research question: Does the amount of sleep affect people’s mood the next day?
